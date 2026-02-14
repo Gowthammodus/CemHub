@@ -1,0 +1,7 @@
+{
+  "name": "CemHub Application - Danish",
+  "description": "An AI-powered geo-intelligence dashboard to visualize and optimize the cement supply chain, from raw material to Ready-Mix Concrete (RMC) units. The application provides insights into logistics, costs, and ESG compliance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
